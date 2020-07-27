@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ## Github Performance Overall
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maulanakurnia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakurnia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
