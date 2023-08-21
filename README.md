@@ -6,7 +6,7 @@
 ## 👨‍💻 &nbsp;About Maulana Kurnia 
 :one: Programming language developer. <br/>
 :two: Experienced in developing web application. <br />
-:three: Ask me about Programming or Machine Learning. <br />
+:three: Ask me about Web Programming or Machine Learning. <br />
 :four: Fun fact : I always try to learn something new and then sleep till it store in the brain.
 
 ## 📈 &nbsp;Github Stats
