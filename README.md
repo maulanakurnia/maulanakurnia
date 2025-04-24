@@ -2,6 +2,7 @@
 
 ![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=maulanakurnia&repo=maulanakurnia&countColor=%2387DEAB)
 ![Live Badge](https://img.shields.io/badge/Live-Yogyakarta-20B2AA?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/2feae7d1-8810-4a5c-8777-80d040855d0a.svg)](https://wakatime.com/@2feae7d1-8810-4a5c-8777-80d040855d0a)
 
 ## 👨‍💻 &nbsp;About Maulana Kurnia 
 :one: Programming language developer. <br/>
